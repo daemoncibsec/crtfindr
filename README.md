@@ -26,13 +26,13 @@ sudo cp crtfindr /usr/bin/
 ## Usage/Examples
 
 ```bash
-python3 subenumerator.py -h
+python3 crtfindr.py -h
 ```
 
 In case you have the script compiled with cython and gcc:
 
 ```bash
-subenumerator -h
+crtfindr -h
 ```
 ## Authors
 
